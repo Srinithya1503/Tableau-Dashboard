@@ -8,9 +8,9 @@ This repository showcases my hands-on work with **Tableau Public**, where I expl
    - An interactive dashboard highlighting **sales and profit trends** across regions and categories.  
    - Includes a Tableau Story to demonstrate step-by-step insights for **business decision-making**.  
 
-2. **Healthcare Demographics Dashboard**  
-   - An interactive dashboard analyzing **patient demographics** such as age, gender, and blood type.  
-   - Helps identify **population patterns** and insights for healthcare managemen
+2. **US Health Discipline Dashboard**  
+   - An interactive dashboard demonstrating the US county level chronic disease trends in 2021-2022.
+   - Recommends the intervention practices in health burden counties.
 
 ## 🎯 Purpose    
 
